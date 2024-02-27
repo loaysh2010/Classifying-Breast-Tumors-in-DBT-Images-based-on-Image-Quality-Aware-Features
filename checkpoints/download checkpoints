@@ -1,0 +1,8 @@
+You Can download all models wights from the link:
+
+https://rovira-my.sharepoint.com/:f:/g/personal/y-8475271-s_epp_urv_cat/EnvQm4GZQdRIvyWJdHlW90QBXe0kegokQayjxhheS-CNqA?e=tNKdgD
+
+ConvNext_DBTex.pt => Quality-Feature Extractor.
+AlexNet_best.pth  => Baseline Model.
+Mymodel_Alex_DBT.pth => Propsed Model.
+
